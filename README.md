@@ -1,2 +1,8 @@
 # mern-crash-course
-MERN Course
+MERN project
+depdencies:
+express- web framework
+mongoose - mongoDB
+dotenv- environment variables
+
+npm install nodemon -D -> continous run and monitor for changes and restart.
